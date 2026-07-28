@@ -1,0 +1,55 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+env/
+venv/
+.venv/
+.Python
+pip-wheel-metadata/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Flask / local runtime files
+instance/
+*.sqlite3
+*.db
+
+# Local Tesseract install files and data (not needed in git)
+tesseract-ocr-w64-setup-*.exe
+tesseract-uninstall.exe
+tesseract.exe
+ambiguous_words.exe
+classifier_tester.exe
+cntraining.exe
+combine_lang_model.exe
+combine_tessdata.exe
+dawg2wordlist.exe
+lstmeval.exe
+lstmtraining.exe
+merge_unicharsets.exe
+mftraining.exe
+set_unicharset_properties.exe
+shapeclustering.exe
+text2image.exe
+unicharset_extractor.exe
+wordlist2dawg.exe
+winpath.exe
+*.dll
+*.jar
+*.ttf
+doc/
+tessdata/
+
+# Logs
+*.log

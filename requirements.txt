@@ -1,0 +1,6 @@
+flask>=2.3.0
+Pillow>=10.0.0
+pytesseract>=0.3.10
+nltk>=3.8.1
+deep-translator>=1.11.4
+gTTS>=2.5.0
