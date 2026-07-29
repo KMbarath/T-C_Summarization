@@ -1,4 +1,4 @@
-#Terms & Conditions Summarizer
+# Terms & Conditions Summarizer
 > Mini Project I · IFET College of Engineering · December 2023  
 > Sathish Kumar T S (421122106047) · Barath K M (421122106004)
 
